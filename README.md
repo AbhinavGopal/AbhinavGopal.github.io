@@ -1,19 +1,15 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/AbhinavGopal/AbhinavGopal.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am a rising senior studying computer science at the University of California, Berkeley. My research interests lie in the intersection of deep learning and robotics, and I am fascinated with the idea of creating assistive robots for the world. I am a researcher at the Berkeley Artificial Intelligence Research Lab under Professor John Canny, working closely with his PhD student, Daniel Seita. I am currently pursuing oppportunities in CS PhD programs to continue my research interests.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Current Projects
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Past Projects
 
 - Bulleted
 - List
