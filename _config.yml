@@ -4,5 +4,5 @@ description: Welcome to my personal site! Here, you can find out more about my i
 avatar: ./profile.png
 
 author:
-  name: Abhinav Gopal
-  avatar: ./profile.png
+  name: "Abhinav Gopal"
+  avatar: "./profile.png"
