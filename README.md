@@ -1,5 +1,6 @@
 ## About Me
-![](https://drive.google.com/file/d/1iTvS5La6IiDN5-KdnLbNqq_YDSrXM-Iv/view?usp=sharing)
+![Picture of Myself:]
+(https://drive.google.com/file/d/1iTvS5La6IiDN5-KdnLbNqq_YDSrXM-Iv/view?usp=sharing)
 
 I am a rising senior studying computer science at the University of California, Berkeley. My research interests lie in the intersection of deep learning and robotics, and I am fascinated with the idea of creating assistive robots for the world. I am a researcher at the Berkeley Artificial Intelligence Research Lab under Professor John Canny, working closely with his PhD student, Daniel Seita. I am currently pursuing oppportunities in CS PhD programs to continue my research interests.
 
